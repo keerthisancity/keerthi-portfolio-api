@@ -1,0 +1,26 @@
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+# Build Folders
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Publish output
+publish/
+**/publish/
+publish.zip
+*.zip
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+
+# Dotnet
+# EF Core migrations script output (if you generate SQL scripts)
+# Database files
+# User secrets and local settings
+# Publish profiles user-specific
+# JetBrains Rider
